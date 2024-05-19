@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeavenlySpectre
 - 👀 I’m interested in 
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning C, C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
