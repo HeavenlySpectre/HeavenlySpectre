@@ -1,13 +1,18 @@
-<!-- Sapaan profil dengan maskot Spectre. -->
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410" role="img" aria-labelledby="title description">
+<!-- Sapaan profil dengan jaringan keahlian hidup. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390" role="img" aria-labelledby="title description">
   <title id="title">Hi, I'm Kevin</title>
-  <desc id="description">A playful developer desktop introducing Kevin Anugerah Faza and the things he builds.</desc>
+  <desc id="description">Kevin builds AI tools, data pipelines, and useful things for the web.</desc>
   <defs>
-    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#f7f1df" opacity="0.08" />
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#285247" stroke-opacity=".28" />
     </pattern>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
-      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.32" />
+    <radialGradient id="halo">
+      <stop stop-color="#8bf0b5" stop-opacity=".2" />
+      <stop offset="1" stop-color="#8bf0b5" stop-opacity="0" />
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
     </filter>
     <style>
       .title { font-family: Georgia, "Times New Roman", serif; }
@@ -16,45 +21,52 @@
     </style>
   </defs>
 
-  <rect width="900" height="410" rx="14" fill="#0b1020" />
-  <rect width="900" height="410" rx="14" fill="url(#dots)" />
-  <rect x="24" y="22" width="852" height="366" rx="12" fill="#10182b" stroke="#2b3855" filter="url(#shadow)" />
-  <path d="M24 68H876" stroke="#2b3855" />
-  <circle cx="49" cy="45" r="6" fill="#ff6b5b" />
-  <circle cx="69" cy="45" r="6" fill="#ffd166" />
-  <circle cx="89" cy="45" r="6" fill="#b8ff65" />
-  <text class="mono" x="450" y="50" fill="#8492ad" font-size="11" text-anchor="middle">github.com/HeavenlySpectre</text>
+  <rect width="900" height="390" rx="14" fill="#071b17" />
+  <rect width="900" height="390" rx="14" fill="url(#grid)" />
+  <path d="M34 54H866" stroke="#285247" />
+  <text class="mono" x="34" y="35" fill="#8bf0b5" font-size="10" letter-spacing="1.2">GITHUB.COM/HEAVENLYSPECTRE</text>
+  <text class="mono" x="866" y="35" fill="#79a395" font-size="9" text-anchor="end">INDONESIA / BUILDING</text>
 
-  <g transform="translate(66 111)">
-    <rect width="128" height="27" rx="13.5" fill="#b8ff65" />
-    <text class="mono" x="64" y="18" fill="#0b1020" font-size="11" font-weight="700" text-anchor="middle">HELLO, WORLD</text>
-    <text class="title" x="0" y="91" fill="#f7f1df" font-size="60" font-weight="700">hi, i'm kevin.</text>
-    <text class="ui" x="0" y="137" fill="#b4c3de" font-size="21">I build AI tools, data pipelines,</text>
-    <text class="ui" x="0" y="168" fill="#b4c3de" font-size="21">and useful things for the web.</text>
-    <path d="M0 194C69 184 140 207 216 194S356 188 432 196" fill="none" stroke="#ff6b5b" stroke-width="4" stroke-linecap="round" />
-    <text class="mono" x="0" y="231" fill="#61d4ff" font-size="12">currently:</text>
-    <text class="mono" x="78" y="231" fill="#f7f1df" font-size="12">learning / shipping / refactoring</text>
+  <g transform="translate(52 98)">
+    <text class="mono" fill="#8bf0b5" font-size="11" letter-spacing="1.5">HELLO, WORLD</text>
+    <text class="title" y="79" fill="#f3ead8" font-size="62">hi, i&#8217;m kevin.</text>
+    <text class="ui" y="124" fill="#9ebbb2" font-size="20">I build AI tools, data pipelines,</text>
+    <text class="ui" y="154" fill="#9ebbb2" font-size="20">and useful things for the web.</text>
+    <path d="M0 180C77 166 139 196 223 178S359 169 438 184" fill="none" stroke="#ef7c65" stroke-width="3" stroke-linecap="round" stroke-dasharray="520" stroke-dashoffset="520">
+      <animate attributeName="stroke-dashoffset" values="520;0;0" keyTimes="0;.45;1" dur="4.8s" repeatCount="indefinite" />
+    </path>
+    <text class="mono" y="222" fill="#8bf0b5" font-size="11">currently:</text>
+    <text class="mono" x="75" y="222" fill="#f3ead8" font-size="11">learning / shipping / refactoring</text>
   </g>
 
-  <g transform="translate(646 104)">
-    <ellipse cx="92" cy="228" rx="92" ry="19" fill="#050814" opacity="0.55" />
-    <g>
-      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3.8s" repeatCount="indefinite" />
-      <path d="M25 105C25 55 54 21 94 21C134 21 163 55 163 105V208L139 190L116 211L93 190L70 211L48 190L25 208Z" fill="#f7f1df" />
-      <path d="M44 105C44 67 64 43 94 43C124 43 144 67 144 105V169C129 158 112 153 94 153C76 153 59 158 44 169Z" fill="#e9dfc6" />
-      <rect x="62" y="91" width="19" height="24" rx="7" fill="#0b1020" />
-      <rect x="108" y="91" width="19" height="24" rx="7" fill="#0b1020" />
-      <circle cx="69" cy="98" r="4" fill="#61d4ff" />
-      <circle cx="115" cy="98" r="4" fill="#61d4ff" />
-      <path d="M80 132Q94 141 108 132" fill="none" stroke="#0b1020" stroke-width="4" stroke-linecap="round" />
-      <path d="M7 57L16 57M11.5 52.5V61.5M173 43L186 43M179.5 36.5V49.5" stroke="#b8ff65" stroke-width="3" stroke-linecap="round" />
-      <circle cx="177" cy="151" r="5" fill="#ff6b5b" />
+  <g transform="translate(620 76)">
+    <circle cx="120" cy="120" r="112" fill="url(#halo)" />
+    <g fill="none" stroke="#2f6758" stroke-width="1.5" stroke-dasharray="5 8">
+      <path d="M120 120L28 47M120 120L201 34M120 120L226 137M120 120L178 230M120 120L29 218">
+        <animate attributeName="stroke-dashoffset" values="0;-26" dur="2.4s" repeatCount="indefinite" />
+      </path>
     </g>
-    <rect x="36" y="246" width="118" height="26" rx="13" fill="#1b2740" stroke="#2b3855" />
-    <text class="mono" x="95" y="263" fill="#b8ff65" font-size="10" text-anchor="middle">HEAVENLY SPECTRE</text>
+    <g fill="#102d25" stroke="#8bf0b5">
+      <circle cx="28" cy="47" r="8" /><circle cx="201" cy="34" r="8" /><circle cx="226" cy="137" r="8" /><circle cx="178" cy="230" r="8" /><circle cx="29" cy="218" r="8" />
+    </g>
+    <g class="mono" fill="#79a395" font-size="8">
+      <text x="5" y="31">CODE</text><text x="191" y="17">APPS</text><text x="233" y="140">DATA</text><text x="170" y="252">AI</text><text x="0" y="239">OPS</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="3.8s" repeatCount="indefinite" />
+      <path d="M75 102C75 62 93 39 120 39S165 62 165 102V178L150 166L135 180L120 166L105 180L90 166L75 178Z" fill="#f3ead8" />
+      <circle cx="106" cy="101" r="6" fill="#071b17" />
+      <circle cx="134" cy="101" r="6" fill="#071b17" />
+      <circle cx="108" cy="99" r="2" fill="#8bf0b5" />
+      <circle cx="136" cy="99" r="2" fill="#8bf0b5" />
+      <path d="M108 125Q120 133 132 125" fill="none" stroke="#071b17" stroke-width="3" stroke-linecap="round" />
+    </g>
+    <circle cx="120" cy="120" r="58" fill="none" stroke="#8bf0b5" opacity=".45">
+      <animate attributeName="r" values="58;74;58" dur="3.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values=".45;0;.45" dur="3.2s" repeatCount="indefinite" />
+    </circle>
+    <circle r="5" fill="#ef7c65" filter="url(#glow)">
+      <animateMotion path="M28 47L120 120L201 34L120 120L226 137L120 120L178 230L120 120L29 218L120 120" dur="9s" repeatCount="indefinite" />
+    </circle>
   </g>
-
-  <rect x="492" y="321" width="9" height="19" fill="#b8ff65">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
-  </rect>
 </svg>
