@@ -17,12 +17,16 @@
   <text class="title" x="38" y="48" fill="#f7f1df" font-size="29" font-style="italic">tools i build with</text>
   <text class="ui" x="38" y="79" fill="#8492ad" font-size="13">A resume-backed toolbox, grouped by where each tool helps me build.</text>
   <g class="mono" font-size="9" letter-spacing="1.2">
-    <circle cx="686" cy="55" r="5" fill="#61d4ff" />
-    <text x="698" y="59" fill="#b4c3de">CODE</text>
-    <circle cx="754" cy="55" r="5" fill="#b8ff65" />
-    <text x="766" y="59" fill="#b4c3de">DATA</text>
-    <circle cx="822" cy="55" r="5" fill="#ffd166" />
-    <text x="834" y="59" fill="#b4c3de">AI / OPS</text>
+    <circle cx="570" cy="55" r="5" fill="#61d4ff" />
+    <text x="582" y="59" fill="#b4c3de">CODE</text>
+    <circle cx="636" cy="55" r="5" fill="#ff6b5b" />
+    <text x="648" y="59" fill="#b4c3de">APPS</text>
+    <circle cx="704" cy="55" r="5" fill="#b8ff65" />
+    <text x="716" y="59" fill="#b4c3de">DATA</text>
+    <circle cx="772" cy="55" r="5" fill="#ffd166" />
+    <text x="784" y="59" fill="#b4c3de">AI</text>
+    <circle cx="824" cy="55" r="5" fill="#f7f1df" />
+    <text x="836" y="59" fill="#b4c3de">OPS</text>
   </g>
   <path d="M38 95H862" stroke="#2b3855" />
 </svg>
