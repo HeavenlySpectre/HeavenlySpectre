@@ -1,0 +1,12 @@
+<!-- Tombol repositori lakehouse yang konsisten dengan tema. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="54" viewBox="0 0 405 54" role="img" aria-labelledby="title description">
+  <title id="title">Open Big Data Lakehouse</title>
+  <desc id="description">Open the Big Data Lakehouse repository on GitHub.</desc>
+  <rect x="1" y="1" width="403" height="52" rx="10" fill="#10182b" stroke="#2b3855" />
+  <path d="M17 19H39L43 23V35H17ZM17 25H43M25 19V35M34 19V35" fill="none" stroke="#ffd166" stroke-width="1.7" stroke-linejoin="round" />
+  <text x="58" y="23" fill="#8492ad" font-family="Courier New, monospace" font-size="9" letter-spacing="1">OPEN ON GITHUB</text>
+  <text x="58" y="39" fill="#f7f1df" font-family="Trebuchet MS, sans-serif" font-size="15" font-weight="700">BIG DATA LAKEHOUSE</text>
+  <path d="M375 21L382 27L375 33" fill="none" stroke="#b8ff65" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <animate attributeName="transform" values="translate(0 0);translate(4 0);translate(0 0)" dur="2s" repeatCount="indefinite" />
+  </path>
+</svg>

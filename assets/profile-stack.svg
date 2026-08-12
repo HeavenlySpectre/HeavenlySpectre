@@ -1,0 +1,28 @@
+<!-- Header ringkas untuk logo teknologi. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="112" viewBox="0 0 900 112" role="img" aria-labelledby="title description">
+  <title id="title">Tools I build with</title>
+  <desc id="description">A compact introduction to the resume-backed technology logo badges below.</desc>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#2b3855" opacity="0.55" />
+    </pattern>
+    <style>
+      .title { font-family: Georgia, "Times New Roman", serif; }
+      .mono { font-family: "Courier New", monospace; }
+      .ui { font-family: "Trebuchet MS", sans-serif; }
+    </style>
+  </defs>
+  <rect width="900" height="112" rx="14" fill="#0b1020" />
+  <rect width="900" height="112" rx="14" fill="url(#dots)" />
+  <text class="title" x="38" y="48" fill="#f7f1df" font-size="29" font-style="italic">tools i build with</text>
+  <text class="ui" x="38" y="79" fill="#8492ad" font-size="13">A resume-backed toolbox, grouped by where each tool helps me build.</text>
+  <g class="mono" font-size="9" letter-spacing="1.2">
+    <circle cx="686" cy="55" r="5" fill="#61d4ff" />
+    <text x="698" y="59" fill="#b4c3de">CODE</text>
+    <circle cx="754" cy="55" r="5" fill="#b8ff65" />
+    <text x="766" y="59" fill="#b4c3de">DATA</text>
+    <circle cx="822" cy="55" r="5" fill="#ffd166" />
+    <text x="834" y="59" fill="#b4c3de">AI / OPS</text>
+  </g>
+  <path d="M38 95H862" stroke="#2b3855" />
+</svg>

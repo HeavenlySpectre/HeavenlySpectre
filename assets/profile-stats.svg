@@ -1,0 +1,42 @@
+<!-- Statistik publik GitHub yang diperbarui otomatis. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="205" viewBox="0 0 900 205" role="img" aria-labelledby="title description">
+  <title id="title">GitHub lately</title>
+  <desc id="description">Automatically updated public repository, follower, and indexed public commit statistics.</desc>
+  <defs>
+    <style>
+      .title { font-family: Georgia, "Times New Roman", serif; }
+      .mono { font-family: "Courier New", monospace; }
+      .card { fill: #10182b; stroke: #2b3855; }
+      .number { fill: #f7f1df; font: 700 38px Georgia, serif; }
+      .label { fill: #8492ad; font: 10px "Courier New", monospace; letter-spacing: 1.2px; }
+    </style>
+  </defs>
+  <rect width="900" height="205" rx="14" fill="#0b1020" />
+  <text class="title" x="34" y="42" fill="#f7f1df" font-size="22" font-style="italic">github lately</text>
+  <text class="mono" id="stats-updated" x="836" y="40" fill="#8492ad" font-size="9" text-anchor="end">UPDATED 13 AUG 2026</text>
+  <path d="M164 36H696" stroke="#2b3855" />
+  <circle cx="858" cy="36" r="5" fill="#b8ff65" />
+
+  <g transform="translate(42 62)">
+    <rect class="card" width="264" height="109" rx="10" />
+    <path d="M22 28H38L43 34H61V57H22Z" fill="none" stroke="#61d4ff" stroke-width="2" stroke-linejoin="round" />
+    <text class="number" id="stat-repos" x="88" y="57">25</text>
+    <text class="label" x="22" y="87">PUBLIC REPOSITORIES</text>
+  </g>
+  <g transform="translate(318 62)">
+    <rect class="card" width="264" height="109" rx="10" />
+    <circle cx="35" cy="35" r="9" fill="none" stroke="#ff6b5b" stroke-width="2" />
+    <path d="M21 57C23 46 47 46 49 57" fill="none" stroke="#ff6b5b" stroke-width="2" />
+    <text class="number" id="stat-followers" x="88" y="57">04</text>
+    <text class="label" x="22" y="87">FOLLOWERS</text>
+  </g>
+  <g transform="translate(594 62)">
+    <rect class="card" width="264" height="109" rx="10" />
+    <path d="M24 31H44M24 41H54M24 51H48" stroke="#b8ff65" stroke-width="2" stroke-linecap="round" />
+    <circle cx="21" cy="31" r="2" fill="#b8ff65" />
+    <circle cx="21" cy="41" r="2" fill="#b8ff65" />
+    <circle cx="21" cy="51" r="2" fill="#b8ff65" />
+    <text class="number" id="stat-commits" x="88" y="57">301</text>
+    <text class="label" x="22" y="87">INDEXED PUBLIC COMMITS</text>
+  </g>
+</svg>

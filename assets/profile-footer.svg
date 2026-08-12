@@ -1,0 +1,34 @@
+<!-- Ajakan sederhana untuk menyapa. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title description">
+  <title id="title">Say hi</title>
+  <desc id="description">Found something interesting? Send Kevin an email.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#2b3855" stroke-opacity="0.36" />
+    </pattern>
+    <style>
+      .title { font-family: Georgia, "Times New Roman", serif; }
+      .mono { font-family: "Courier New", monospace; }
+      .ui { font-family: "Trebuchet MS", sans-serif; }
+    </style>
+  </defs>
+  <rect width="900" height="250" rx="14" fill="#10182b" />
+  <rect width="900" height="250" rx="14" fill="url(#grid)" />
+  <g transform="translate(64 54)">
+    <text class="mono" x="0" y="0" fill="#61d4ff" font-size="11">BEFORE YOU GO...</text>
+    <text class="title" x="0" y="59" fill="#f7f1df" font-size="43" font-style="italic">found something interesting?</text>
+    <text class="ui" x="0" y="101" fill="#b4c3de" font-size="17">Say hi, share an idea, or send me a weird project.</text>
+    <rect x="0" y="124" width="218" height="42" rx="21" fill="#b8ff65" />
+    <text class="mono" x="109" y="151" fill="#0b1020" font-size="11" font-weight="700" text-anchor="middle">SEND ME AN EMAIL</text>
+  </g>
+  <g transform="translate(736 64)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.6s" repeatCount="indefinite" />
+      <path d="M15 59C15 29 34 9 61 9C88 9 107 29 107 59V123L92 112L77 126L61 112L46 126L31 112L15 123Z" fill="#f7f1df" />
+      <circle cx="45" cy="57" r="7" fill="#0b1020" />
+      <circle cx="77" cy="57" r="7" fill="#0b1020" />
+      <path d="M48 82Q61 90 74 82" fill="none" stroke="#0b1020" stroke-width="3" stroke-linecap="round" />
+    </g>
+  </g>
+  <text class="mono" x="836" y="224" fill="#8492ad" font-size="9" text-anchor="end">@HEAVENLYSPECTRE</text>
+</svg>
