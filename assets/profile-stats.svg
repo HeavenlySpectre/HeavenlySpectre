@@ -13,7 +13,7 @@
   </defs>
   <rect width="900" height="190" rx="14" fill="#071b17" /><rect width="900" height="190" rx="14" fill="url(#grid)" />
   <text class="title" x="34" y="42" fill="#f3ead8" font-size="22" font-style="italic">github lately</text>
-  <text class="mono" id="stats-updated" x="842" y="40" fill="#79a395" font-size="9" text-anchor="end">UPDATED 13 AUG 2026</text>
+  <text class="mono" id="stats-updated" x="842" y="40" fill="#79a395" font-size="9" text-anchor="end">UPDATED 30 AUG 2026</text>
   <path d="M165 35H710" stroke="#285247" />
   <circle cx="858" cy="36" r="5" fill="#ef7c65"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite" /></circle>
   <path d="M166 112C235 74 291 150 356 112S477 74 544 112S666 150 734 112" fill="none" stroke="#2f6758" stroke-width="2" stroke-dasharray="6 8"><animate attributeName="stroke-dashoffset" values="0;-28" dur="2.5s" repeatCount="indefinite" /></path>

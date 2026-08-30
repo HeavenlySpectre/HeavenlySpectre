@@ -1,0 +1,19 @@
+CV_Kevin Anugerah Faza_ATS.pdf
+*.pdf
+
+# Documentation & Internal Notes
+CONTEXT.md
+docs/
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini

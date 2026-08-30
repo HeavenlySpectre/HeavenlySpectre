@@ -1,8 +1,0 @@
-<!-- Tautan repositori 19MJ. -->
-<svg xmlns="http://www.w3.org/2000/svg" width="288" height="54" viewBox="0 0 288 54" role="img" aria-labelledby="title description">
-  <title id="title">Open 19MJ</title><desc id="description">Open the 19MJ repository on GitHub.</desc>
-  <rect x="1" y="1" width="286" height="52" rx="10" fill="#102d25" stroke="#2f6758" />
-  <circle cx="28" cy="27" r="11" fill="none" stroke="#ef7c65" stroke-width="2" /><circle cx="24" cy="24" r="2" fill="#ef7c65" /><circle cx="32" cy="24" r="2" fill="#ef7c65" /><path d="M23 31Q28 34 33 31" fill="none" stroke="#ef7c65" stroke-width="1.5" />
-  <text x="52" y="23" fill="#79a395" font-family="Courier New, monospace" font-size="9" letter-spacing="1">OPEN ON GITHUB</text><text x="52" y="39" fill="#f3ead8" font-family="Trebuchet MS, sans-serif" font-size="15" font-weight="700">19MJ</text>
-  <path d="M258 21L265 27L258 33" fill="none" stroke="#8bf0b5" stroke-width="2"><animate attributeName="transform" values="translate(0 0);translate(4 0);translate(0 0)" dur="2s" repeatCount="indefinite" /></path>
-</svg>
