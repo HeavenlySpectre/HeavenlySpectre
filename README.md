@@ -26,6 +26,14 @@ Building autonomous AI agent harnesses, real-time distributed data pipelines, an
 
 ---
 
+### Active Engineering & Focus
+
+- **Autonomous Agent Systems**: Engineering sandboxed tool-execution environments, multi-agent coordination pipelines, structured output validation, and low-latency local model inference serving.
+- **Distributed Data Platforms**: Architecting real-time event ingestion streams, analytical lakehouse ETL workflows, and high-throughput OLAP query optimization.
+- **Scalable Backend Infrastructure**: Designing asynchronous service architectures, decoupled background task worker queues, and resilient containerized orchestration.
+
+---
+
 ### Activity & Token Telemetry
 
 <div align="center">
@@ -33,6 +41,14 @@ Building autonomous AI agent harnesses, real-time distributed data pipelines, an
 <a href="https://tokscale.ai/u/HeavenlySpectre">
   <img src="https://tokscale.ai/api/embed/HeavenlySpectre/svg?view=3d" width="100%" alt="Tokscale 3D Contribution Graph for HeavenlySpectre" />
 </a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
