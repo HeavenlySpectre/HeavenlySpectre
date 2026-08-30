@@ -34,7 +34,7 @@ Building autonomous AI agent harnesses, real-time distributed data pipelines, an
 
 ---
 
-### Activity & Token Telemetry
+### Activity & Telemetry
 
 <div align="center">
 
@@ -44,10 +44,16 @@ Building autonomous AI agent harnesses, real-time distributed data pipelines, an
 
 <br/><br/>
 
+<a href="https://github.com/HeavenlySpectre">
+  <img src="https://streak-stats.demolab.com?user=HeavenlySpectre&theme=dark&background=071B17&stroke=285247&ring=8BF0B5&fire=EF7C65&currStreakNum=F3EAD8&sideNums=8BF0B5&sideLabels=79A395&dates=54796F&hide_border=true" alt="GitHub Streak Stats" />
+</a>
+
+<br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/profile-green-animate.svg">
+  <img src="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Calendar" />
 </picture>
 
 </div>
