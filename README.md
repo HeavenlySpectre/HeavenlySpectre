@@ -51,9 +51,9 @@ Building autonomous AI agent harnesses, real-time distributed data pipelines, an
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/profile-green-animate.svg">
-  <img src="https://raw.githubusercontent.com/HeavenlySpectre/HeavenlySpectre/output/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Calendar" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Calendar" />
 </picture>
 
 </div>
