@@ -108,6 +108,10 @@
   <img src="./assets/profile-contributions.svg" width="100%" alt="Animated weekly GitHub contribution activity for the last year" />
 </a>
 
+<a href="https://tokscale.ai/u/HeavenlySpectre">
+  <img src="https://tokscale.ai/api/embed/HeavenlySpectre/svg?view=3d" width="100%" alt="Tokscale 3D Contributions Graph" />
+</a>
+
 <img src="./assets/profile-footer.svg" width="100%" alt="Feel free to contact Kevin, exchange ideas, and build something meaningful" />
 
 <a href="mailto:kevinanugerahf@gmail.com">
