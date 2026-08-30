@@ -20,7 +20,7 @@
   <g transform="translate(72 76)">
     <circle cx="52" cy="36" r="42" fill="#102d25" stroke="#2f6758" />
     <path d="M31 20H44L49 25H68V45H31Z" fill="none" stroke="#8bf0b5" stroke-width="2" />
-    <text class="number" id="stat-repos" x="92" y="42">25</text><text class="label" x="92" y="62">PUBLIC REPOSITORIES</text>
+    <text class="number" id="stat-repos" x="92" y="42">23</text><text class="label" x="92" y="62">PUBLIC REPOSITORIES</text>
   </g>
   <g transform="translate(350 76)">
     <circle cx="52" cy="36" r="42" fill="#102d25" stroke="#2f6758" />
@@ -30,7 +30,7 @@
   <g transform="translate(628 76)">
     <circle cx="52" cy="36" r="42" fill="#102d25" stroke="#2f6758" />
     <path d="M34 25H64M34 35H58M34 45H67" stroke="#f1b85b" stroke-width="2" stroke-linecap="round" />
-    <text class="number" id="stat-commits" x="92" y="42">301</text><text class="label" x="92" y="62">INDEXED PUBLIC COMMITS</text>
+    <text class="number" id="stat-commits" x="92" y="42">131</text><text class="label" x="92" y="62">INDEXED PUBLIC COMMITS</text>
   </g>
   <circle r="4" fill="#8bf0b5"><animateMotion path="M166 112C235 74 291 150 356 112S477 74 544 112S666 150 734 112" dur="4.8s" repeatCount="indefinite" /></circle>
 </svg>
