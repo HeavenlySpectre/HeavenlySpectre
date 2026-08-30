@@ -10,7 +10,7 @@ Building autonomous AI agent harnesses, real-time distributed data pipelines, an
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,fastapi,kafka,postgres,mongodb,mysql,redis,docker,kubernetes,githubactions,linux,gcp,aws,git,ts,react,nextjs,tailwind,cpp,c,bash,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,fastapi,kafka,postgres,mongodb,mysql,redis,docker,kubernetes,githubactions,linux,gcp,aws,git,go,ts,js,react,nextjs,vue,tailwind,cpp,c,java,kotlin,terraform,bash,vercel,netlify" />
 
 </div>
 
@@ -18,11 +18,11 @@ Building autonomous AI agent harnesses, real-time distributed data pipelines, an
 
 | Domain | Technologies, Frameworks & Engines |
 | :--- | :--- |
-| **AI, LLM & Machine Learning** | `PyTorch`, `Hugging Face`, `Transformers`, `Scikit-learn`, `vLLM`, `Ollama`, `LM Studio`, `LangChain`, `LlamaIndex`, `RAGAS`, `Pandas`, `NumPy`, `spaCy`, `OpenCV`, `RAG`, `Prompt Engineering` |
+| **Languages** | `Go`, `Python`, `TypeScript`, `JavaScript`, `SQL`, `C`, `C++`, `Java`, `Kotlin`, `Bash`, `HCL (Terraform)` |
+| **AI, LLM & Data Science** | `PyTorch`, `Hugging Face`, `Transformers`, `Scikit-learn`, `vLLM`, `Ollama`, `LM Studio`, `LangChain`, `LlamaIndex`, `RAGAS`, `Pandas`, `NumPy`, `spaCy`, `OpenCV`, `Jupyter Notebook`, `RAG`, `Prompt Engineering` |
 | **Data Platforms & Storage** | `Apache Kafka`, `Apache Spark`, `ClickHouse`, `PostgreSQL`, `MongoDB`, `MariaDB`, `MySQL`, `Redis`, `Prefect` |
-| **Backend & Distributed Services** | `FastAPI`, `Celery`, `Uvicorn`, `HTTPX`, `REST APIs`, `Telegram Bot API`, `Trafilatura`, `Feedparser`, `TypeScript`, `React`, `Next.js`, `Tailwind CSS` |
-| **Cloud, DevOps & MLOps** | `Docker`, `Kubernetes`, `GitHub Actions`, `Linux / WSL`, `Git`, `MLflow`, `Google Cloud Platform (GCP)`, `Amazon Web Services (AWS)`, `DigitalOcean`, `Vercel`, `Netlify` |
-| **Languages & Systems** | `Python`, `SQL`, `TypeScript`, `C`, `C++`, `Bash` |
+| **Backend & Web** | `FastAPI`, `Celery`, `Uvicorn`, `HTTPX`, `REST APIs`, `Telegram Bot API`, `Trafilatura`, `Feedparser`, `React`, `Next.js`, `Vue.js`, `Tailwind CSS` |
+| **Cloud, DevOps & MLOps** | `Docker`, `Kubernetes`, `Terraform`, `GitHub Actions`, `Linux / WSL`, `Git`, `MLflow`, `Google Cloud Platform (GCP)`, `Amazon Web Services (AWS)`, `DigitalOcean`, `Vercel`, `Netlify` |
 
 ---
 
@@ -40,12 +40,6 @@ Building autonomous AI agent harnesses, real-time distributed data pipelines, an
 
 <a href="https://tokscale.ai/u/HeavenlySpectre">
   <img src="https://tokscale.ai/api/embed/HeavenlySpectre/svg?view=3d" width="100%" alt="Tokscale 3D Contribution Graph for HeavenlySpectre" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/HeavenlySpectre">
-  <img src="https://streak-stats.demolab.com?user=HeavenlySpectre&theme=dark&background=071B17&stroke=285247&ring=8BF0B5&fire=EF7C65&currStreakNum=F3EAD8&sideNums=8BF0B5&sideLabels=79A395&dates=54796F&hide_border=true" alt="GitHub Streak Stats" />
 </a>
 
 <br/><br/>
